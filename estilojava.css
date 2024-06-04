@@ -1,0 +1,13 @@
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 1px;
+    text-align: center;
+    text-transform: uppercase;
+    border: 2px solid rgb(140, 64, 215);
+    background-color: rgb(53, 94, 72);
+    border-radius: 20PX;
+    padding: 5px 10px 3px 10px;
+    box-shadow: 2px 4px 2px 4px rgb(0, 213, 255);
+    display: inline-block;
+    cursor: pointer;
+}
